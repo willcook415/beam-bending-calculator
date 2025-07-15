@@ -53,8 +53,8 @@ cd beam-bending-calculator"
 
 ## Preview
 
-(UI-example1.png)
-(UI-example2.png)
+![Demo 1](UI-example1.png)
+![Demo 2](UI-example2.png)
 
 ---
 
