@@ -53,6 +53,9 @@ cd beam-bending-calculator"
 
 ## Preview
 
+(UI-example1.png)
+(UI-example2.png)
+
 ---
 
 ## License
